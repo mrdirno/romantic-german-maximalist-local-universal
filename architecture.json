@@ -1,0 +1,72 @@
+{
+  "book_id": "romantic-german-maximalist-local-universal",
+  "title": "The Crystalline Breath Upon the Earth",
+  "tagline": "In a fading Silesian estate, a philosopher of mud and a teacher of drawing confront the sublime weight of a single place, where every local detail holds a universal truth.",
+  "target_words": 74547,
+  "actual_words": 74547,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Tension Between Interiority and the Physical World",
+    "The Search for the Sublime in the Mundane",
+    "The Decay of Heritage and Social Order",
+    "Art as a Means of Perception and Defiance"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Scent of Damp Wool and Despair",
+      "words": 6777
+    },
+    {
+      "ch": 2,
+      "title": "A Discordant Note at the Silver Symphony",
+      "words": 6777
+    },
+    {
+      "ch": 3,
+      "title": "The Crystalline Breath Upon the Earth",
+      "words": 6777
+    },
+    {
+      "ch": 4,
+      "title": "The Chalky Scar Through the Pines",
+      "words": 6777
+    },
+    {
+      "ch": 5,
+      "title": "A Pebble in the Shoe",
+      "words": 6777
+    },
+    {
+      "ch": 6,
+      "title": "The Metronome of Decay",
+      "words": 6777
+    },
+    {
+      "ch": 7,
+      "title": "A Man as a Valve",
+      "words": 6777
+    },
+    {
+      "ch": 8,
+      "title": "A Discordant Chorus of Sirens",
+      "words": 6777
+    },
+    {
+      "ch": 9,
+      "title": "The Silence of a Held Breath",
+      "words": 6777
+    },
+    {
+      "ch": 10,
+      "title": "The Heart as a Condition",
+      "words": 6777
+    },
+    {
+      "ch": 11,
+      "title": "Absorbed by Indifferent Stone",
+      "words": 6777
+    }
+  ]
+}
